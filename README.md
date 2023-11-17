@@ -7,6 +7,8 @@
 - MimoSwap
     - feat(swap): Support inputCurrency & outputCurrency
     - improve(liquidity): liquidity invalid pair experience optimization
+    - improve(swap): token modal fluency optimization
+    - fix(swap): swap token side button issues
 ## version 2023-11-13
 - MimoSwap 
     - fix(token.ts): update token list api cache to refresh. [DONE]
