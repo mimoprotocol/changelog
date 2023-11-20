@@ -4,10 +4,11 @@
 - MimoSwap
     - fix(liquidity): remove liquidity issues [TODO]
     - fix(liquidity): some pairs display invalid pair [TODO]
+- NFT Marketplace
+    - fea: Convert collection address to collection name. [WIP]
 
 ## version 2023-11-17
 - NFT Marketplace
-    - fea: Convert collection address to collection name. [TODO]
     - fix: Fix collection page data errors. [DONE]
 - MimoSwap
     - feat(swap): Support inputCurrency & outputCurrency
