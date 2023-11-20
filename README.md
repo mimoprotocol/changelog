@@ -1,5 +1,10 @@
 # mimo changelog
 
+## version 2023-11-24
+- MimoSwap
+    - fix(liquidity): remove liquidity issues [TODO]
+    - fix(liquidity): some pairs display invalid pair [TODO]
+
 ## version 2023-11-17
 - NFT Marketplace
     - fea: Convert collection address to collection name. [TODO]
