@@ -3,8 +3,9 @@
 ## version 2023-11-24
 - MimoSwap
     - fix(liquidity): remove liquidity issues
-    - fix(liquidity): some pairs display invalid pair [WIP]
-    - refactor(wallet): change wallet to web3 react [WIP]
+    - fix(liquidity): some pairs display invalid pair
+    - refactor(wallet): change wallet to web3 react
+    - improve(token): improve token load performance [WIP]
 - NFT Marketplace
     - fea: Convert collection address to collection name. [WIP]
 
