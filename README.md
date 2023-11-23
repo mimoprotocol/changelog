@@ -5,7 +5,9 @@
     - fix(liquidity): remove liquidity issues
     - fix(liquidity): some pairs display invalid pair
     - refactor(wallet): change wallet to web3 react
-    - improve(token): improve token load performance [WIP]
+    - improve(token): improve token load performance
+    - fix(swap): load inputCurrency from url issues [WIP]
+    - improve(token): improve filter token logic [WIP]
 - NFT Marketplace
     - fea: Convert collection address to collection name. [WIP]
 
