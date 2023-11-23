@@ -8,6 +8,7 @@
     - improve(token): improve token load performance
     - fix(swap): load inputCurrency from url issues [WIP]
     - improve(token): improve filter token logic [WIP]
+    - feature(swap): stable swap [todo]
 - NFT Marketplace
     - fea: Convert collection address to collection name. [WIP]
 
