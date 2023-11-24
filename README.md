@@ -6,7 +6,7 @@
     - fix(liquidity): some pairs display invalid pair
     - refactor(wallet): change wallet to web3 react
     - improve(token): improve token load performance
-    - fix(swap): load inputCurrency from url issues [WIP]
+    - fix(swap): load inputCurrency from url issues 
     - improve(token): improve filter token logic
     - feat(swap): stable swap [todo]
 - NFT Marketplace
