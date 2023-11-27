@@ -1,5 +1,9 @@
 # mimo changelog
 
+## version 2023-12-01
+- MimoSwap
+    - refactor(token): remove fee token whitelist [todo]
+
 ## version 2023-11-24
 - MimoSwap
     - fix(liquidity): remove liquidity issues
@@ -9,7 +13,6 @@
     - fix(swap): load inputCurrency from url issues 
     - improve(token): improve filter token logic
     - feat(swap): stable swap [todo]
-    - refactor(token): remove fee token whitelist [todo]
 - NFT Marketplace
     - fea: Convert collection address to collection name. [WIP]
 
