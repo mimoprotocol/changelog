@@ -9,6 +9,7 @@
     - fix(swap): load inputCurrency from url issues 
     - improve(token): improve filter token logic
     - feat(swap): stable swap [todo]
+    - refactor(token): remove fee token whitelist [todo]
 - NFT Marketplace
     - fea: Convert collection address to collection name. [WIP]
 
