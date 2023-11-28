@@ -2,7 +2,8 @@
 
 ## version 2023-12-01
 - MimoSwap
-    - refactor(token): remove fee token whitelist 
+    - refactor(token): remove fee token whitelist
+    - add token image api cache
 
 ## version 2023-11-24
 - MimoSwap
