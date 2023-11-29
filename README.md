@@ -4,6 +4,8 @@
 - MimoSwap
     - refactor(token): remove fee token whitelist
     - add token image api cache
+- NFT Marketplace
+    - feat: Upgrade wallect connect to V2. [DONE]
 
 ## version 2023-11-24
 - MimoSwap
