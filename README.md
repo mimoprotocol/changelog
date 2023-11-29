@@ -15,7 +15,7 @@
     - improve(token): improve filter token logic
     - feat(swap): stable swap [todo]
 - NFT Marketplace
-    - fea: Convert collection address to collection name. [WIP]
+    - fea: Convert collection address to collection name. [DONE]
 
 ## version 2023-11-17
 - NFT Marketplace
