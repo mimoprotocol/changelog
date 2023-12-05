@@ -4,6 +4,8 @@
 - MimoSwap
     - fix(swap): inputCurrency & outputCurrency support main token
     - improve(swap): improve token modal
+- NFT Marketplace
+    - fix official tag display issues. [DONE]
 ## version 2023-12-01
 - MimoSwap
     - refactor(token): remove fee token whitelist
