@@ -4,6 +4,7 @@
 - MimoSwap
     - fix(swap): inputCurrency & outputCurrency support main token
     - improve(swap): improve token modal
+    - feat(pools): support pools [WIP]
 - NFT Marketplace
     - fix official tag display issues. [DONE]
 ## version 2023-12-01
