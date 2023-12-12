@@ -1,5 +1,7 @@
 # mimo changelog
-
+## version 2023-12-15
+- MimoSwap
+    - feat(ui): show token fee [todo]
 ## version 2023-12-08
 - MimoSwap
     - fix(swap): inputCurrency & outputCurrency support main token
