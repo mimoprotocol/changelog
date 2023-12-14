@@ -2,6 +2,8 @@
 ## version 2023-12-15
 - MimoSwap
     - feat(ui): improve swap fail experience
+- NFT Marketplace
+    - fix: Optimize the display of the collection page. [DONE]
 ## version 2023-12-08
 - MimoSwap
     - fix(swap): inputCurrency & outputCurrency support main token
