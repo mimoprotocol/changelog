@@ -8,8 +8,8 @@
 - MimoSwap
     - fix(swap): inputCurrency & outputCurrency support main token
     - improve(swap): improve token modal
-    - feat(pools): support pools [WIP]
-    - fix(alert): ui issues [WIP]
+    - feat(pools): support pools 
+    - fix(alert): ui issues 
 - NFT Marketplace
     - fix official tag display issues. [DONE]
 ## version 2023-12-01
