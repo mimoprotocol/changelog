@@ -1,4 +1,7 @@
 # mimo changelog
+## version 2023-12-29
+- NFT Marketplace
+    - feat: Increase NFT bulk purchases. [WIP]
 ## version 2023-12-15
 - MimoSwap
     - feat(ui): improve swap fail experience
