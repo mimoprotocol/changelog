@@ -1,4 +1,8 @@
 # mimo changelog
+## version 2024-01-04
+- MimoSwap
+  - fix memory leak issue
+
 ## version 2023-12-29
 - NFT Marketplace
     - feat: Increase NFT bulk purchases. [PREVIEW]
