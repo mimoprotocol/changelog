@@ -2,6 +2,8 @@
 ## version 2024-01-04
 - MimoSwap
   - fix memory leak issue
+- NFT Marketplace
+	- fix: The method of obtaining the owner of NFT has been changed to RPC for obtaining. [DONE]
 
 ## version 2023-12-29
 - NFT Marketplace
