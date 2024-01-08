@@ -1,4 +1,9 @@
 # mimo changelog
+
+## version 2024-01-08
+- MimoSwap
+  - refactor(swap): improve code (WIP)
+
 ## version 2024-01-04
 - MimoSwap
   - fix memory leak issue
