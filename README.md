@@ -1,8 +1,10 @@
 # mimo changelog
 
-## version 2024-01-08
+## version 2024-01-12
 - MimoSwap
   - refactor(swap): improve code (WIP)
+- NFT Marketplace
+  - feat: Fix NFT bulk purchase. [DONE]
 
 ## version 2024-01-04
 - MimoSwap
