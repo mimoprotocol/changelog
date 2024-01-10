@@ -3,9 +3,9 @@
 ## version 2024-01-12
 - MimoSwap
   - refactor(swap): improve code (WIP)
+  - pool(ui): improve pool ui (WIP)
 - NFT Marketplace
   - feat: Fix NFT bulk purchase. [DONE]
-  - pool(ui): improve pool ui (WIP)
 
 ## version 2024-01-04
 - MimoSwap
