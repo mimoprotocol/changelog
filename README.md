@@ -1,4 +1,7 @@
 # mimo changelog
+## version 2024-01-29
+- MimoSwap
+  - fix(liqiduity): fix first pair issues (WIP)
 
 ## version 2024-01-12
 - MimoSwap
