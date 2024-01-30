@@ -1,4 +1,8 @@
 # mimo changelog
+## version 2024-01-30
+- MimoSwap
+	- fix earned tooltip.
+
 ## version 2024-01-29
 - MimoSwap
   - fix(liqiduity): fix first pair issues
