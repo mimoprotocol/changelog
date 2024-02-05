@@ -1,4 +1,8 @@
 # mimo changelog
+## version 2024-02-4
+- NFT Marketplace
+  - fix: Add pre transaction verification login status. [DONE]
+
 ## version 2024-01-30
 - MimoSwap
 	- fix earned tooltip.
